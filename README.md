@@ -1,2 +1,2 @@
 # learn_git
-Sample git learning material.
+Sample git learning materialfor tutorial purpose.
